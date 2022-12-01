@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 🤗, I'm @KumarCharan-00</h1>
-<h3 align="center">An Optimistic Self-Taught developer Interested in Software Development and AI from India</h3>
+<h1 align="center">Hi 🤗, I'm Kumar Charan</h1>
+<h3 align="center">An Optimistic Self-Taught developer from India, Interested in Software Development and AI.</h3>
 
 - 🔭 I’m currently working on **[IPLDashboard](https://github.com/KumarCharan-00/IPLDashboard)**
 
