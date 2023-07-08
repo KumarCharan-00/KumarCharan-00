@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Java, Haskell, Spring Boot, Spring Security & JUnit Testing**
 
-- 👉 You can Reach me through my **[LinkedIn](https://www.linkedin.com/in/kumar-charan-m-894330192/)** or **[Instagram](https://www.instagram.com/kumar_charan_/)**
+- 👉 You can Reach me through my **[LinkedIn](https://www.linkedin.com/in/kumarcharan00/)** or **[Instagram](https://www.instagram.com/kumarcharan_00/)**
 
-- 📄 Know about my experiences through my **[LinkedIn Profile](https://www.linkedin.com/in/kumar-charan-m-894330192/)**
+- 📄 Know about my experiences through my **[LinkedIn Profile](https://www.linkedin.com/in/kumarcharan00/)**
 
-- 🐱‍🏍 Fun fact **I am Mechanical Undergrad who is also working on few Mechanical Projects which you check out in Linkedin Profile.**
+- 🐱‍🏍 Fun fact **I am Mechanical Undergrad who is also worked on few Mechanical Projects which you check out in Linkedin Profile.**
 
