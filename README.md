@@ -25,13 +25,14 @@
 
 | Layer | Technologies |
 |---|---|
-| **Primary languages** | Java 21, Python 3 |
-| **Frameworks** | Spring Boot, Spring Security, Spring MVC, Hibernate |
+| **Primary languages** | Java 21, Python 3, NodeJs |
+| **Secondary languages** | Scala, Kotlin, Haskell, SQL |
+| **Frameworks** | Spring Boot, Spring Security, Spring MVC, JPA |
 | **AWS services** | Lambda, DynamoDB, SQS, SNS, SES, ECS, EC2, API Gateway, CloudWatch, VPC |
 | **AI / LLM** | LangChain, OpenAI API, Anthropic API, RAG, Prompt Engineering |
 | **Databases** | Oracle DB, PostgreSQL, MySQL, SQLite, DynamoDB |
-| **Tools** | SAM CLI, Docker, Git, Postman, Swagger, Maven |
-| **Secondary** | JavaScript, NodeJS, ExpressJS, Next.js, Haskell, SQL |
+| **Tools** | SAM CLI, Docker, Git, YAML, Postman, Swagger, Maven |
+| **** | |
 
 ---
 
