@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Kumar Charan 👨‍💻</h1>
-<h3 align="center">Senior Software Engineer · Java · AWS · Gen AI · Pthon 3 · Node.Js · Spring Framework  |  Hyderabad, India</h3>
+<h3 align="center">Senior Software Engineer · Java · AWS · Gen AI · Python 3 · Node.Js · Spring Framework  |  Hyderabad, India</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/kumarcharan00">
