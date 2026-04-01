@@ -32,7 +32,6 @@
 | **AI / LLM** | LangChain, OpenAI API, Anthropic API, RAG, Prompt Engineering |
 | **Databases** | Oracle DB, PostgreSQL, MySQL, SQLite, DynamoDB |
 | **Tools** | SAM CLI, Docker, Git, YAML, Postman, Swagger, Maven |
-| **** | |
 
 ---
 
