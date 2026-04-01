@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Kumar Charan 👋</h1>
+<h1 align="center">Hey, I'm Kumar Charan</h1>
 <h3 align="center">Backend Engineer · Java · AWS · Gen AI  |  Hyderabad, India</h3>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ### What I work on
 
-- 🏗️ **Production** — Building and scaling AWS cloud-native services (Lambda · DynamoDB · SQS · ECS) with Java 21 + Spring Boot at Infomerica, serving millions of users across major US energy brands
-- 🤖 **Currently building** — LLM-powered applications in Python: RAG pipelines, AI agents, and developer tooling using the OpenAI / Anthropic APIs
-- ☁️ **AWS depth** — SAM deployments, API Gateway custom JWT authorizers, CloudWatch alarms, event-driven architecture with SQS/SNS/SES
-- 🔬 **Always exploring** — Haskell, Scala, Kotlin — different paradigms make you a sharper engineer
+- **Production** — Building and scaling AWS cloud-native services (Lambda · DynamoDB · SQS · ECS) with Java 21 + Spring Boot at Infomerica, serving millions of users across major US energy brands
+- **Currently building** — LLM-powered applications in Python: RAG pipelines, AI agents, and developer tooling using the OpenAI / Anthropic APIs
+- **AWS depth** — SAM deployments, API Gateway custom JWT authorizers, CloudWatch alarms, event-driven architecture with SQS/SNS/SES
+- **Always exploring** — Haskell, Scala, Kotlin — different paradigms make you a sharper engineer
 
 ---
 
@@ -37,9 +37,9 @@
 
 ### Currently working on
 
-- 🔭 Shipping LLM projects publicly — **watch this space**
-- 🌱 AWS Solutions Architect deep dive
-- 📖 Exploring agentic AI patterns (tool use, memory, multi-step reasoning)
+- Shipping LLM projects publicly — **watch this space**
+- AWS Solutions Architect deep dive
+- Exploring agentic AI patterns (tool use, memory, multi-step reasoning)
 
 ---
 
