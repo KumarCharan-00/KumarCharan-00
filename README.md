@@ -54,4 +54,4 @@ Probably the most unexpected career switch — but here we are, and I wouldn't c
 
 Ask me about **Java · Spring Boot · AWS serverless · building with LLMs**
  
-[LinkedIn](https://linkedin.com/in/kumarcharan00)
+✉️ [LinkedIn](https://linkedin.com/in/kumarcharan00)
